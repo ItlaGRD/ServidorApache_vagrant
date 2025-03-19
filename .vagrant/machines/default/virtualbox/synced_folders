@@ -1,0 +1,1 @@
+{"virtualbox":{"/var/www/html":{"create":true,"guestpath":"/var/www/html","hostpath":"C:/Users/gerny/Documents/ServidorApache_vagrant/paginas_web","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"C:/Users/gerny/Documents/ServidorApache_vagrant","disabled":false,"__vagrantfile":true}}}
